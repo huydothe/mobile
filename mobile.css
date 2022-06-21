@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    border: 1px;
+    text-align: center;
+
+}
+tr{
+    background-color: #f60430;
+    border-color: black;
+}
